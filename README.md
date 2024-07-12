@@ -18,8 +18,8 @@
 
 <br>
 
-- A passionate Developer and IT specialist from .
-- Interested in both software and hardware, as well as networking
+- A passionate Developer and IT specialist.
+- Interested in both software and hardware, as well as networking.
 - I can speak English, German, French and Arabic.
 
 <br><br>
@@ -76,7 +76,7 @@
 
 <br>
 
-## <picture><img src = "https://icons8.com/icon/vBPqKKFZo4nQ/mail" width = 50px></picture> **Contact**
+## <picture><img src = "https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" width = 25px></picture> **Contact**
 <br>
 <div align='left'>
 
@@ -103,6 +103,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-Credit: [Ahmed Fattahi](https://github.com/)
+Credit: [Ahmed Fattahi](https://github.com/Ahmed-Fattahi/)
 
 Last Edited on: 11/07/2024
