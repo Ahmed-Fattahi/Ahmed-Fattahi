@@ -83,7 +83,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/ahmed-fattahi1" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-fattahi1" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Ahmed Fattahi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -91,7 +91,7 @@
 <br>
 
 <li>
-<a href="mailto:fattahi.ahmed1@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Ahmed Fattahi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
